@@ -1,0 +1,17 @@
+{
+    "RABBITMQ": {
+        "host": "127.0.0.1",
+        "port": 5672,
+        "username": "guest",
+        "password": "guest"
+    },
+    "PLATFORMS": {
+        "binance": {
+            "account": "abc123@gmail.com",
+            "access_key": "ACCESS KEY",
+            "secret_key": "SECRET KEY"
+        }
+    },
+    "strategy": "my_test_strategy",
+    "symbol": "BNB/BTC"
+}
